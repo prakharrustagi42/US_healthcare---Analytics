@@ -35,15 +35,15 @@ INSIGHTS AND RECOMMENDATIONS :<br />
         Hypertension - Mr. Jeffrey Washington DVM<br />
         Obesity - 	Samantha Jones<br />
 
-(B) FOR HOSPITALS:<br />
+(B) **FOR HOSPITALS:** <br />
 
-      Observations: 
-      1) Elective and Urgent Patients numbers stay stable on day to day basis<br />
-      2) Emergency numbers are zero for the first week of the month and are really high from 10-16th of every month<br />
+Observations: 
+1) Elective and Urgent Patients numbers stay stable on day to day basis<br />
+2) Emergency numbers are zero for the first week of the month and are really high from 10-16th of every month<br />
 
-      Recommendations:<br />
-      1) More elective patients should be scheduled for the first week of the month to increase the number of patients attended<br />
-      2) More rooms should be kept empty for from 10th-16th of a month to address the rush in emergency patients.<br />
+Recommendations:<br />
+1) More elective patients should be scheduled for the first week of the month to increase the number of patients attended<br />
+2) More rooms should be kept empty for from 10th-16th of a month to address the rush in emergency patients.<br />
 
   
 
